@@ -1,5 +1,4 @@
 data/bigdata.jnl
 *.log
 webapps/bigdata/
-*.jar
 *.war
